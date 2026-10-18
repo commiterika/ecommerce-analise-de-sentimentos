@@ -1,0 +1,101 @@
+order_id,customer_id,order_date,delivery_status,delivery_days,review_rating,review_text
+ORD-1000,CUST-202,2026-01-01,No Prazo,4.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1001,CUST-535,2026-01-02,No Prazo,3.0,5,"Excelente produto, chegou super rápido!"
+ORD-1002,CUST-960,2026-01-03,No Prazo,5.0,4,"Muito bom, atendeu às expectativas."
+ORD-1003,CUST-370,2026-01-04,No Prazo,2.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1004,CUST-206,2026-01-05,No Prazo,1.0,5,"Excelente produto, chegou super rápido!"
+ORD-1005,CUST-171,2026-01-06,No Prazo,4.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1006,CUST-800,2026-01-07,Atrasado,11.0,1,"Entrega muito atrasada, fiquei insatisfeita."
+ORD-1007,CUST-120,2026-01-08,No Prazo,5.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1008,CUST-714,2026-01-09,No Prazo,4.0,4,"Muito bom, atendeu às expectativas."
+ORD-1009,CUST-221,2026-01-10,No Prazo,3.0,4,"Muito bom, atendeu às expectativas."
+ORD-1010,CUST-566,2026-01-11,No Prazo,3.0,5,"Gostei bastante, recomendo a todos!"
+ORD-1011,CUST-314,2026-01-12,Atrasado,8.0,1,"Péssimo atendimento, demorou demais para chegar."
+ORD-1012,CUST-430,2026-01-13,No Prazo,3.0,4,"Muito bom, atendeu às expectativas."
+ORD-1013,CUST-558,2026-01-14,Cancelado,,1,"Atendimento horrível, cancelaram meu pedido."
+ORD-1014,CUST-187,2026-01-15,Atrasado,12.0,1,"Entrega muito atrasada, fiquei insatisfeita."
+ORD-1015,CUST-472,2026-01-16,No Prazo,1.0,5,"Excelente produto, chegou super rápido!"
+ORD-1016,CUST-199,2026-01-17,No Prazo,2.0,5,"Excelente produto, chegou super rápido!"
+ORD-1017,CUST-971,2026-01-18,Atrasado,14.0,3,"O produto é bom, mas a entrega atrasou um pouco."
+ORD-1018,CUST-763,2026-01-19,Atrasado,7.0,1,"Péssimo atendimento, demorou demais para chegar."
+ORD-1019,CUST-230,2026-01-20,Atrasado,15.0,1,"Péssimo atendimento, demorou demais para chegar."
+ORD-1020,CUST-761,2026-01-21,Atrasado,12.0,1,"Entrega muito atrasada, fiquei insatisfeita."
+ORD-1021,CUST-408,2026-01-22,No Prazo,2.0,5,"Excelente produto, chegou super rápido!"
+ORD-1022,CUST-869,2026-01-23,No Prazo,4.0,4,"Muito bom, atendeu às expectativas."
+ORD-1023,CUST-443,2026-01-24,No Prazo,1.0,5,"Gostei bastante, recomendo a todos!"
+ORD-1024,CUST-591,2026-01-25,Atrasado,6.0,1,"Entrega muito atrasada, fiquei insatisfeita."
+ORD-1025,CUST-513,2026-01-26,No Prazo,4.0,4,"Produto atendeu o esperado, entrega dentro do prazo."
+ORD-1026,CUST-905,2026-01-27,No Prazo,5.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1027,CUST-485,2026-01-28,No Prazo,1.0,5,"Excelente produto, chegou super rápido!"
+ORD-1028,CUST-291,2026-01-29,No Prazo,3.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1029,CUST-376,2026-01-30,No Prazo,3.0,4,"Muito bom, atendeu às expectativas."
+ORD-1030,CUST-260,2026-01-31,Atrasado,13.0,2,Demorou mais do que o informado na compra.
+ORD-1031,CUST-559,2026-02-01,No Prazo,1.0,4,"Muito bom, atendeu às expectativas."
+ORD-1032,CUST-413,2026-02-02,Atrasado,6.0,1,"Entrega muito atrasada, fiquei insatisfeita."
+ORD-1033,CUST-121,2026-02-03,No Prazo,4.0,4,"Muito bom, atendeu às expectativas."
+ORD-1034,CUST-352,2026-02-04,No Prazo,3.0,5,"Excelente produto, chegou super rápido!"
+ORD-1035,CUST-847,2026-02-05,Atrasado,8.0,3,"O produto é bom, mas a entrega atrasou um pouco."
+ORD-1036,CUST-956,2026-02-06,Atrasado,7.0,1,"Entrega muito atrasada, fiquei insatisfeita."
+ORD-1037,CUST-660,2026-02-07,No Prazo,2.0,5,"Gostei bastante, recomendo a todos!"
+ORD-1038,CUST-574,2026-02-08,Atrasado,11.0,1,"Péssimo atendimento, demorou demais para chegar."
+ORD-1039,CUST-158,2026-02-09,No Prazo,5.0,5,"Excelente produto, chegou super rápido!"
+ORD-1040,CUST-610,2026-02-10,No Prazo,4.0,5,"Excelente produto, chegou super rápido!"
+ORD-1041,CUST-781,2026-02-11,No Prazo,4.0,5,"Excelente produto, chegou super rápido!"
+ORD-1042,CUST-575,2026-02-12,No Prazo,5.0,4,"Muito bom, atendeu às expectativas."
+ORD-1043,CUST-799,2026-02-13,No Prazo,3.0,5,"Excelente produto, chegou super rápido!"
+ORD-1044,CUST-882,2026-02-14,No Prazo,1.0,4,"Muito bom, atendeu às expectativas."
+ORD-1045,CUST-289,2026-02-15,No Prazo,3.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1046,CUST-786,2026-02-16,No Prazo,5.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1047,CUST-662,2026-02-17,No Prazo,3.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1048,CUST-975,2026-02-18,Cancelado,,1,Tive o pedido cancelado sem explicação razoável.
+ORD-1049,CUST-666,2026-02-19,No Prazo,5.0,5,"Excelente produto, chegou super rápido!"
+ORD-1050,CUST-343,2026-02-20,No Prazo,4.0,5,"Excelente produto, chegou super rápido!"
+ORD-1051,CUST-931,2026-02-21,Atrasado,10.0,1,"Entrega muito atrasada, fiquei insatisfeita."
+ORD-1052,CUST-604,2026-02-22,No Prazo,5.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1053,CUST-230,2026-02-23,No Prazo,4.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1054,CUST-584,2026-02-24,No Prazo,1.0,5,"Excelente produto, chegou super rápido!"
+ORD-1055,CUST-918,2026-02-25,No Prazo,4.0,4,"Muito bom, atendeu às expectativas."
+ORD-1056,CUST-746,2026-02-26,Cancelado,,1,Tive o pedido cancelado sem explicação razoável.
+ORD-1057,CUST-120,2026-02-27,Atrasado,10.0,2,Demorou mais do que o informado na compra.
+ORD-1058,CUST-940,2026-02-28,No Prazo,3.0,4,"Muito bom, atendeu às expectativas."
+ORD-1059,CUST-266,2026-03-01,Atrasado,14.0,3,"O produto é bom, mas a entrega atrasou um pouco."
+ORD-1060,CUST-373,2026-03-02,Atrasado,13.0,3,"O produto é bom, mas a entrega atrasou um pouco."
+ORD-1061,CUST-487,2026-03-03,No Prazo,1.0,4,"Produto atendeu o esperado, entrega dentro do prazo."
+ORD-1062,CUST-700,2026-03-04,Atrasado,8.0,1,"Entrega muito atrasada, fiquei insatisfeita."
+ORD-1063,CUST-415,2026-03-05,No Prazo,1.0,4,"Muito bom, atendeu às expectativas."
+ORD-1064,CUST-113,2026-03-06,Atrasado,10.0,1,"Entrega muito atrasada, fiquei insatisfeita."
+ORD-1065,CUST-341,2026-03-07,Atrasado,12.0,3,"O produto é bom, mas a entrega atrasou um pouco."
+ORD-1066,CUST-876,2026-03-08,No Prazo,3.0,5,"Gostei bastante, recomendo a todos!"
+ORD-1067,CUST-445,2026-03-09,No Prazo,1.0,5,"Gostei bastante, recomendo a todos!"
+ORD-1068,CUST-664,2026-03-10,No Prazo,2.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1069,CUST-997,2026-03-11,No Prazo,2.0,5,"Gostei bastante, recomendo a todos!"
+ORD-1070,CUST-439,2026-03-12,Atrasado,15.0,2,Demorou mais do que o informado na compra.
+ORD-1071,CUST-191,2026-03-13,Atrasado,15.0,3,"O produto é bom, mas a entrega atrasou um pouco."
+ORD-1072,CUST-466,2026-03-14,No Prazo,1.0,5,"Excelente produto, chegou super rápido!"
+ORD-1073,CUST-554,2026-03-15,No Prazo,3.0,4,"Produto atendeu o esperado, entrega dentro do prazo."
+ORD-1074,CUST-527,2026-03-16,No Prazo,2.0,5,"Gostei bastante, recomendo a todos!"
+ORD-1075,CUST-608,2026-03-17,No Prazo,3.0,5,"Gostei bastante, recomendo a todos!"
+ORD-1076,CUST-875,2026-03-18,No Prazo,1.0,4,"Produto atendeu o esperado, entrega dentro do prazo."
+ORD-1077,CUST-134,2026-03-19,No Prazo,4.0,5,"Gostei bastante, recomendo a todos!"
+ORD-1078,CUST-305,2026-03-20,Cancelado,,1,Veio com defeito e acabei cancelando a compra.
+ORD-1079,CUST-180,2026-03-21,No Prazo,1.0,4,"Muito bom, atendeu às expectativas."
+ORD-1080,CUST-661,2026-03-22,No Prazo,5.0,4,"Muito bom, atendeu às expectativas."
+ORD-1081,CUST-971,2026-03-23,Atrasado,6.0,1,"Entrega muito atrasada, fiquei insatisfeita."
+ORD-1082,CUST-487,2026-03-24,No Prazo,4.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1083,CUST-101,2026-03-25,Cancelado,,1,Veio com defeito e acabei cancelando a compra.
+ORD-1084,CUST-489,2026-03-26,Cancelado,,1,Veio com defeito e acabei cancelando a compra.
+ORD-1085,CUST-665,2026-03-27,No Prazo,4.0,5,"Gostei bastante, recomendo a todos!"
+ORD-1086,CUST-205,2026-03-28,No Prazo,2.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1087,CUST-871,2026-03-29,No Prazo,1.0,5,"Gostei bastante, recomendo a todos!"
+ORD-1088,CUST-921,2026-03-30,No Prazo,5.0,5,"Gostei bastante, recomendo a todos!"
+ORD-1089,CUST-576,2026-03-31,No Prazo,2.0,5,"Excelente produto, chegou super rápido!"
+ORD-1090,CUST-802,2026-04-01,No Prazo,4.0,5,"Gostei bastante, recomendo a todos!"
+ORD-1091,CUST-501,2026-04-02,No Prazo,3.0,4,"Muito bom, atendeu às expectativas."
+ORD-1092,CUST-829,2026-04-03,No Prazo,5.0,5,"Excelente produto, chegou super rápido!"
+ORD-1093,CUST-655,2026-04-04,No Prazo,5.0,4,"Muito bom, atendeu às expectativas."
+ORD-1094,CUST-261,2026-04-05,Cancelado,,1,"Atendimento horrível, cancelaram meu pedido."
+ORD-1095,CUST-301,2026-04-06,No Prazo,4.0,4,"Produto atendeu o esperado, entrega dentro do prazo."
+ORD-1096,CUST-369,2026-04-07,No Prazo,4.0,4,"Produto atendeu o esperado, entrega dentro do prazo."
+ORD-1097,CUST-962,2026-04-08,No Prazo,4.0,5,Chegou dentro do prazo e bem embalado.
+ORD-1098,CUST-915,2026-04-09,Cancelado,,1,Veio com defeito e acabei cancelando a compra.
+ORD-1099,CUST-370,2026-04-10,No Prazo,4.0,4,"Produto atendeu o esperado, entrega dentro do prazo."
